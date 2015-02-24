@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 34fcd3b4eb7b0f843bd53d961479da50
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Dolly
+    100002: //RootNode
+    100004: Gnou001
+    100006: Gnou001Head
+    100008: Gnou001LLegDigit0
+    100010: Gnou001LLegFemur
+    100012: Gnou001LLegHumerus
+    100014: Gnou001LLegLargeCannon
+    100016: Gnou001LLegMetacarpus
+    100018: Gnou001LLegPhalangesManus
+    100020: Gnou001LLegPhalanxPrima
+    100022: Gnou001LLegPlatform
+    100024: Gnou001LLegPlatform 1
+    100026: Gnou001LLegRadius
+    100028: Gnou001LLegRearHoof
+    100030: Gnou001LLegScapula
+    100032: Gnou001LLegTibia
+    100034: Gnou001Pelvis
+    100036: Gnou001Ribcage
+    100038: Gnou001RLegDigit0
+    100040: Gnou001RLegFemur
+    100042: Gnou001RLegHumerus
+    100044: Gnou001RLegLargeCannon
+    100046: Gnou001RLegMetacarpus
+    100048: Gnou001RLegPhalangesManus
+    100050: Gnou001RLegPhalanxPrima
+    100052: Gnou001RLegPlatform
+    100054: Gnou001RLegPlatform 1
+    100056: Gnou001RLegRadius
+    100058: Gnou001RLegRearHoof
+    100060: Gnou001RLegScapula
+    100062: Gnou001RLegTibia
+    100064: Gnou001SpinegnouNeck1
+    100066: Gnou001SpinegnouNeck2
+    100068: Gnou001SpinegnouNeck3
+    100070: Gnou001SpinegnouNeck4
+    100072: Gnou001SpinegnouNeck5
+    100074: Gnou001SpinegnouNeck6
+    100076: Gnou001SpinegnouNeck7
+    100078: Gnou001SpinegnouSpine1
+    100080: Gnou001SpinegnouSpine2
+    100082: Gnou001SpinegnouSpine3
+    100084: Gnou001SpinegnouSpine4
+    100086: Gnou001SpinegnouSpine5
+    100088: Gnou001SpinegnouSpine6
+    100090: Gnou001SpinegnouSpine7
+    100092: Gnou001Tail1
+    100094: Gnou001Tail2
+    100096: Gnou001Tail3
+    100098: Gnou001Tail4
+    100100: Gnou001Tail5
+    100102: Gnou001Tail6
+    100104: Sheep_
+    100106: Sheep_FrontRLegFrontHoof
+    100108: Sheep_FrontRLegHumerus
+    100110: Sheep_FrontRLegMetacarpus
+    100112: Sheep_FrontRLegPhalangesManus
+    100114: Sheep_FrontRLegPlatform
+    100116: Sheep_FrontRLegRadius
+    100118: Sheep_FrontRLegScapula
+    100120: Sheep_Jaw
+    100122: Sheep_LFemur
+    100124: Sheep_LFrontHoof
+    100126: Sheep_LHumerus
+    100128: Sheep_LLargeCannon
+    100130: Sheep_LMetacarpus
+    100132: Sheep_LPhalangesManus
+    100134: Sheep_LPhalanxPrima
+    100136: Sheep_LPlatform
+    100138: Sheep_LPlatform 1
+    100140: Sheep_LRadius
+    100142: Sheep_LRearHoof
+    100144: Sheep_LScapula
+    100146: Sheep_LTibia
+    100148: Sheep_Neck1
+    100150: Sheep_Neck2
+    100152: Sheep_Neck3
+    100154: Sheep_Neck4
+    100156: Sheep_Pelvis
+    100158: Sheep_RFemur
+    100160: Sheep_Ribcage
+    100162: Sheep_RLargeCannon
+    100164: Sheep_RPhalanxPrima
+    100166: Sheep_RPlatform
+    100168: Sheep_RRearHoof
+    100170: Sheep_RTibia
+    100172: Sheep_Scull
+    100174: Sheep_Spine1
+    100176: Sheep_Spine2
+    100178: Sheep_Spine3
+    100180: Sheep_Spine4
+    100182: Sheep_Spine5
+    100184: Sheep_Spine6
+    100186: Sheep_Tail1
+    100188: Sheep_Tail2
+    100190: Sheep_Tail3
+    400000: Dolly
+    400002: //RootNode
+    400004: Gnou001
+    400006: Gnou001Head
+    400008: Gnou001LLegDigit0
+    400010: Gnou001LLegFemur
+    400012: Gnou001LLegHumerus
+    400014: Gnou001LLegLargeCannon
+    400016: Gnou001LLegMetacarpus
+    400018: Gnou001LLegPhalangesManus
+    400020: Gnou001LLegPhalanxPrima
+    400022: Gnou001LLegPlatform
+    400024: Gnou001LLegPlatform 1
+    400026: Gnou001LLegRadius
+    400028: Gnou001LLegRearHoof
+    400030: Gnou001LLegScapula
+    400032: Gnou001LLegTibia
+    400034: Gnou001Pelvis
+    400036: Gnou001Ribcage
+    400038: Gnou001RLegDigit0
+    400040: Gnou001RLegFemur
+    400042: Gnou001RLegHumerus
+    400044: Gnou001RLegLargeCannon
+    400046: Gnou001RLegMetacarpus
+    400048: Gnou001RLegPhalangesManus
+    400050: Gnou001RLegPhalanxPrima
+    400052: Gnou001RLegPlatform
+    400054: Gnou001RLegPlatform 1
+    400056: Gnou001RLegRadius
+    400058: Gnou001RLegRearHoof
+    400060: Gnou001RLegScapula
+    400062: Gnou001RLegTibia
+    400064: Gnou001SpinegnouNeck1
+    400066: Gnou001SpinegnouNeck2
+    400068: Gnou001SpinegnouNeck3
+    400070: Gnou001SpinegnouNeck4
+    400072: Gnou001SpinegnouNeck5
+    400074: Gnou001SpinegnouNeck6
+    400076: Gnou001SpinegnouNeck7
+    400078: Gnou001SpinegnouSpine1
+    400080: Gnou001SpinegnouSpine2
+    400082: Gnou001SpinegnouSpine3
+    400084: Gnou001SpinegnouSpine4
+    400086: Gnou001SpinegnouSpine5
+    400088: Gnou001SpinegnouSpine6
+    400090: Gnou001SpinegnouSpine7
+    400092: Gnou001Tail1
+    400094: Gnou001Tail2
+    400096: Gnou001Tail3
+    400098: Gnou001Tail4
+    400100: Gnou001Tail5
+    400102: Gnou001Tail6
+    400104: Sheep_
+    400106: Sheep_FrontRLegFrontHoof
+    400108: Sheep_FrontRLegHumerus
+    400110: Sheep_FrontRLegMetacarpus
+    400112: Sheep_FrontRLegPhalangesManus
+    400114: Sheep_FrontRLegPlatform
+    400116: Sheep_FrontRLegRadius
+    400118: Sheep_FrontRLegScapula
+    400120: Sheep_Jaw
+    400122: Sheep_LFemur
+    400124: Sheep_LFrontHoof
+    400126: Sheep_LHumerus
+    400128: Sheep_LLargeCannon
+    400130: Sheep_LMetacarpus
+    400132: Sheep_LPhalangesManus
+    400134: Sheep_LPhalanxPrima
+    400136: Sheep_LPlatform
+    400138: Sheep_LPlatform 1
+    400140: Sheep_LRadius
+    400142: Sheep_LRearHoof
+    400144: Sheep_LScapula
+    400146: Sheep_LTibia
+    400148: Sheep_Neck1
+    400150: Sheep_Neck2
+    400152: Sheep_Neck3
+    400154: Sheep_Neck4
+    400156: Sheep_Pelvis
+    400158: Sheep_RFemur
+    400160: Sheep_Ribcage
+    400162: Sheep_RLargeCannon
+    400164: Sheep_RPhalanxPrima
+    400166: Sheep_RPlatform
+    400168: Sheep_RRearHoof
+    400170: Sheep_RTibia
+    400172: Sheep_Scull
+    400174: Sheep_Spine1
+    400176: Sheep_Spine2
+    400178: Sheep_Spine3
+    400180: Sheep_Spine4
+    400182: Sheep_Spine5
+    400184: Sheep_Spine6
+    400186: Sheep_Tail1
+    400188: Sheep_Tail2
+    400190: Sheep_Tail3
+    4300000: Dolly
+    7400000: idle
+    7400002: run
+    7400004: walk
+    9500000: //RootNode
+    13700000: Dolly
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dolly
+        weight: 1
+      - path: Gnou001
+        weight: 1
+      - path: Gnou001LLegPlatform
+        weight: 1
+      - path: Gnou001LLegPlatform 1
+        weight: 1
+      - path: Gnou001Pelvis
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia/Gnou001LLegLargeCannon
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia/Gnou001LLegLargeCannon/Gnou001LLegPhalanxPrima
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia/Gnou001LLegLargeCannon/Gnou001LLegPhalanxPrima/Gnou001LLegRearHoof
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia/Gnou001RLegLargeCannon
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia/Gnou001RLegLargeCannon/Gnou001RLegPhalanxPrima
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia/Gnou001RLegLargeCannon/Gnou001RLegPhalanxPrima/Gnou001RLegRearHoof
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius/Gnou001LLegMetacarpus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius/Gnou001LLegMetacarpus/Gnou001LLegPhalangesManus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius/Gnou001LLegMetacarpus/Gnou001LLegPhalangesManus/Gnou001LLegDigit0
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius/Gnou001RLegMetacarpus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius/Gnou001RLegMetacarpus/Gnou001RLegPhalangesManus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius/Gnou001RLegMetacarpus/Gnou001RLegPhalangesManus/Gnou001RLegDigit0
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5/Gnou001SpinegnouNeck6
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5/Gnou001SpinegnouNeck6/Gnou001SpinegnouNeck7
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5/Gnou001SpinegnouNeck6/Gnou001SpinegnouNeck7/Gnou001Head
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3/Gnou001Tail4
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3/Gnou001Tail4/Gnou001Tail5
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3/Gnou001Tail4/Gnou001Tail5/Gnou001Tail6
+        weight: 1
+      - path: Gnou001RLegPlatform
+        weight: 1
+      - path: Gnou001RLegPlatform 1
+        weight: 1
+      - path: Sheep_
+        weight: 1
+      - path: Sheep_FrontRLegPlatform
+        weight: 1
+      - path: Sheep_LPlatform
+        weight: 1
+      - path: Sheep_LPlatform 1
+        weight: 1
+      - path: Sheep_Pelvis
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia/Sheep_LLargeCannon
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia/Sheep_LLargeCannon/Sheep_LPhalanxPrima
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia/Sheep_LLargeCannon/Sheep_LPhalanxPrima/Sheep_LRearHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia/Sheep_RLargeCannon
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia/Sheep_RLargeCannon/Sheep_RPhalanxPrima
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia/Sheep_RLargeCannon/Sheep_RPhalanxPrima/Sheep_RRearHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius/Sheep_FrontRLegMetacarpus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius/Sheep_FrontRLegMetacarpus/Sheep_FrontRLegPhalangesManus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius/Sheep_FrontRLegMetacarpus/Sheep_FrontRLegPhalangesManus/Sheep_FrontRLegFrontHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius/Sheep_LMetacarpus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius/Sheep_LMetacarpus/Sheep_LPhalangesManus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius/Sheep_LMetacarpus/Sheep_LPhalangesManus/Sheep_LFrontHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3/Sheep_Neck4
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3/Sheep_Neck4/Sheep_Scull
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3/Sheep_Neck4/Sheep_Scull/Sheep_Jaw
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Tail1
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Tail1/Sheep_Tail2
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Tail1/Sheep_Tail2/Sheep_Tail3
+        weight: 1
+      - path: Sheep_RPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dolly
+        weight: 1
+      - path: Gnou001
+        weight: 1
+      - path: Gnou001LLegPlatform
+        weight: 1
+      - path: Gnou001LLegPlatform 1
+        weight: 1
+      - path: Gnou001Pelvis
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia/Gnou001LLegLargeCannon
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia/Gnou001LLegLargeCannon/Gnou001LLegPhalanxPrima
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia/Gnou001LLegLargeCannon/Gnou001LLegPhalanxPrima/Gnou001LLegRearHoof
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia/Gnou001RLegLargeCannon
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia/Gnou001RLegLargeCannon/Gnou001RLegPhalanxPrima
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia/Gnou001RLegLargeCannon/Gnou001RLegPhalanxPrima/Gnou001RLegRearHoof
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius/Gnou001LLegMetacarpus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius/Gnou001LLegMetacarpus/Gnou001LLegPhalangesManus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius/Gnou001LLegMetacarpus/Gnou001LLegPhalangesManus/Gnou001LLegDigit0
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius/Gnou001RLegMetacarpus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius/Gnou001RLegMetacarpus/Gnou001RLegPhalangesManus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius/Gnou001RLegMetacarpus/Gnou001RLegPhalangesManus/Gnou001RLegDigit0
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5/Gnou001SpinegnouNeck6
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5/Gnou001SpinegnouNeck6/Gnou001SpinegnouNeck7
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5/Gnou001SpinegnouNeck6/Gnou001SpinegnouNeck7/Gnou001Head
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3/Gnou001Tail4
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3/Gnou001Tail4/Gnou001Tail5
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3/Gnou001Tail4/Gnou001Tail5/Gnou001Tail6
+        weight: 1
+      - path: Gnou001RLegPlatform
+        weight: 1
+      - path: Gnou001RLegPlatform 1
+        weight: 1
+      - path: Sheep_
+        weight: 1
+      - path: Sheep_FrontRLegPlatform
+        weight: 1
+      - path: Sheep_LPlatform
+        weight: 1
+      - path: Sheep_LPlatform 1
+        weight: 1
+      - path: Sheep_Pelvis
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia/Sheep_LLargeCannon
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia/Sheep_LLargeCannon/Sheep_LPhalanxPrima
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia/Sheep_LLargeCannon/Sheep_LPhalanxPrima/Sheep_LRearHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia/Sheep_RLargeCannon
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia/Sheep_RLargeCannon/Sheep_RPhalanxPrima
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia/Sheep_RLargeCannon/Sheep_RPhalanxPrima/Sheep_RRearHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius/Sheep_FrontRLegMetacarpus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius/Sheep_FrontRLegMetacarpus/Sheep_FrontRLegPhalangesManus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius/Sheep_FrontRLegMetacarpus/Sheep_FrontRLegPhalangesManus/Sheep_FrontRLegFrontHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius/Sheep_LMetacarpus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius/Sheep_LMetacarpus/Sheep_LPhalangesManus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius/Sheep_LMetacarpus/Sheep_LPhalangesManus/Sheep_LFrontHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3/Sheep_Neck4
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3/Sheep_Neck4/Sheep_Scull
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3/Sheep_Neck4/Sheep_Scull/Sheep_Jaw
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Tail1
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Tail1/Sheep_Tail2
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Tail1/Sheep_Tail2/Sheep_Tail3
+        weight: 1
+      - path: Sheep_RPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dolly
+        weight: 1
+      - path: Gnou001
+        weight: 1
+      - path: Gnou001LLegPlatform
+        weight: 1
+      - path: Gnou001LLegPlatform 1
+        weight: 1
+      - path: Gnou001Pelvis
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia/Gnou001LLegLargeCannon
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia/Gnou001LLegLargeCannon/Gnou001LLegPhalanxPrima
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001LLegFemur/Gnou001LLegTibia/Gnou001LLegLargeCannon/Gnou001LLegPhalanxPrima/Gnou001LLegRearHoof
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia/Gnou001RLegLargeCannon
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia/Gnou001RLegLargeCannon/Gnou001RLegPhalanxPrima
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001RLegFemur/Gnou001RLegTibia/Gnou001RLegLargeCannon/Gnou001RLegPhalanxPrima/Gnou001RLegRearHoof
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius/Gnou001LLegMetacarpus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius/Gnou001LLegMetacarpus/Gnou001LLegPhalangesManus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001LLegScapula/Gnou001LLegHumerus/Gnou001LLegRadius/Gnou001LLegMetacarpus/Gnou001LLegPhalangesManus/Gnou001LLegDigit0
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius/Gnou001RLegMetacarpus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius/Gnou001RLegMetacarpus/Gnou001RLegPhalangesManus
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001RLegScapula/Gnou001RLegHumerus/Gnou001RLegRadius/Gnou001RLegMetacarpus/Gnou001RLegPhalangesManus/Gnou001RLegDigit0
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5/Gnou001SpinegnouNeck6
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5/Gnou001SpinegnouNeck6/Gnou001SpinegnouNeck7
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001SpinegnouSpine1/Gnou001SpinegnouSpine2/Gnou001SpinegnouSpine3/Gnou001SpinegnouSpine4/Gnou001SpinegnouSpine5/Gnou001SpinegnouSpine6/Gnou001SpinegnouSpine7/Gnou001Ribcage/Gnou001SpinegnouNeck1/Gnou001SpinegnouNeck2/Gnou001SpinegnouNeck3/Gnou001SpinegnouNeck4/Gnou001SpinegnouNeck5/Gnou001SpinegnouNeck6/Gnou001SpinegnouNeck7/Gnou001Head
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3/Gnou001Tail4
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3/Gnou001Tail4/Gnou001Tail5
+        weight: 1
+      - path: Gnou001Pelvis/Gnou001Tail1/Gnou001Tail2/Gnou001Tail3/Gnou001Tail4/Gnou001Tail5/Gnou001Tail6
+        weight: 1
+      - path: Gnou001RLegPlatform
+        weight: 1
+      - path: Gnou001RLegPlatform 1
+        weight: 1
+      - path: Sheep_
+        weight: 1
+      - path: Sheep_FrontRLegPlatform
+        weight: 1
+      - path: Sheep_LPlatform
+        weight: 1
+      - path: Sheep_LPlatform 1
+        weight: 1
+      - path: Sheep_Pelvis
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia/Sheep_LLargeCannon
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia/Sheep_LLargeCannon/Sheep_LPhalanxPrima
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_LFemur/Sheep_LTibia/Sheep_LLargeCannon/Sheep_LPhalanxPrima/Sheep_LRearHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia/Sheep_RLargeCannon
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia/Sheep_RLargeCannon/Sheep_RPhalanxPrima
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_RFemur/Sheep_RTibia/Sheep_RLargeCannon/Sheep_RPhalanxPrima/Sheep_RRearHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius/Sheep_FrontRLegMetacarpus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius/Sheep_FrontRLegMetacarpus/Sheep_FrontRLegPhalangesManus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_FrontRLegScapula/Sheep_FrontRLegHumerus/Sheep_FrontRLegRadius/Sheep_FrontRLegMetacarpus/Sheep_FrontRLegPhalangesManus/Sheep_FrontRLegFrontHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius/Sheep_LMetacarpus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius/Sheep_LMetacarpus/Sheep_LPhalangesManus
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_LScapula/Sheep_LHumerus/Sheep_LRadius/Sheep_LMetacarpus/Sheep_LPhalangesManus/Sheep_LFrontHoof
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3/Sheep_Neck4
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3/Sheep_Neck4/Sheep_Scull
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Spine1/Sheep_Spine2/Sheep_Spine3/Sheep_Spine4/Sheep_Spine5/Sheep_Spine6/Sheep_Ribcage/Sheep_Neck1/Sheep_Neck2/Sheep_Neck3/Sheep_Neck4/Sheep_Scull/Sheep_Jaw
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Tail1
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Tail1/Sheep_Tail2
+        weight: 1
+      - path: Sheep_Pelvis/Sheep_Tail1/Sheep_Tail2/Sheep_Tail3
+        weight: 1
+      - path: Sheep_RPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
